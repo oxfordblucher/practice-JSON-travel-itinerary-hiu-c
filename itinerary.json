@@ -1,0 +1,44 @@
+{
+    "name": "Japan trip",
+    "travelers": [
+        {
+            "name": "John Doe",
+            "contact": {
+                "email": "jdoe@gmail.com",
+                "phone": "111-222-3333"
+            }
+        }
+    ],
+    "destinations": [
+        {
+            "location": "Tokyo",
+            "arrivalDate": "2026-10-25",
+            "departureDate": "2026-10-28",
+            "activities": [
+                {
+                    "title": "tea ceremony",
+                    "time": "1:00 PM"
+                },
+                {
+                    "title": "Akihabara shopping",
+                    "time": "3:00 PM"
+                }
+            ]
+        },
+        {
+            "location": "Sapporo",
+            "arrivalDate": "2026-10-28",
+            "departureDate": "2026-10-30",
+            "activities": [
+                {
+                    "title": "Ramen Alley",
+                    "time": "12:00 PM"
+                },
+                {
+                    "title": "Nijo Fish Market",
+                    "time": "5:00 PM"
+                }
+            ]
+        }
+    ]
+}
