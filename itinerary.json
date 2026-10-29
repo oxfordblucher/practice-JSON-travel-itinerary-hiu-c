@@ -12,6 +12,10 @@
     "destinations": [
         {
             "location": "Tokyo",
+            "transportation": {
+                "mode": "Plane",
+                "cost": "50,000 yen"
+            },
             "arrivalDate": "2026-10-25",
             "departureDate": "2026-10-28",
             "activities": [
@@ -27,6 +31,10 @@
         },
         {
             "location": "Sapporo",
+            "transportation": {
+                "mode": "Plane",
+                "cost": "46,000 yen"
+            },
             "arrivalDate": "2026-10-28",
             "departureDate": "2026-10-30",
             "activities": [
@@ -37,6 +45,25 @@
                 {
                     "title": "Nijo Fish Market",
                     "time": "5:00 PM"
+                }
+            ]
+        },
+        {
+            "location": "Kyoto",
+            "transportation": {
+                "mode": "Bullet Train",
+                "cost": "2100 yen"
+            },
+            "arrivalDate": "2026-10-31",
+            "departureDate": "2026-11-4",
+            "activities": [
+                {
+                    "title": "Kiyomizu-Dera",
+                    "time": "11:00 PM"
+                },
+                {
+                    "title": "Aryishayama Bamboo Forest",
+                    "time": "4:00 PM"
                 }
             ]
         }
